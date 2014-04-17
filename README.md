@@ -1,3 +1,27 @@
+# This is not the code you are looking for!
+
+[thlorenz/replpad](https://github.com/thlorenz/replpad) <---you want this
+
+This is just replpad with a few *minor* tweaks to play with ECMAScript 6.
+
+__To play with anyway.... it requires__
+
+- node _v0.11.x_
+
+__Install with NPM__
+
+```
+npm install -g git+ssh://git@github.com:brevity/replpad.git#f611c028677db80a255db8409eeafe378f9fe89d
+```
+
+__Dont blame me if something breaks__
+
+
+_[End Transmission]_
+
+____________________________
+
+
 # replpad [![build status](https://secure.travis-ci.org/thlorenz/replpad.png)](http://next.travis-ci.org/thlorenz/replpad)
 
 [![NPM](https://nodei.co/npm/replpad.png?downloads=true&stars=true)](https://nodei.co/npm/replpad/)
